@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/CMakeFiles/argparse-populate-complete.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-build.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-configure.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-download.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-install.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-patch.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-test.rule"
+		},
+		{
+			"file" : "/home/l/MPS-elastic/build/_deps/argparse-subbuild/argparse-populate-prefix/src/argparse-populate-stamp/argparse-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"argparse-populate"
+		],
+		"name" : "argparse-populate"
+	}
+}
